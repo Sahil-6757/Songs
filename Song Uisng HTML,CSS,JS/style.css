@@ -1,0 +1,88 @@
+* {
+  margin: auto;
+  padding: auto;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  box-sizing: border-box;
+}
+h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  margin: 15px;
+  padding: auto;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+main {
+  width: 90%;
+  height: 550px;
+  margin: auto;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+div {
+  width: 30%;
+  height: 160px;
+  border-radius: 20px;
+  box-shadow: 2px, 2px, 5px green;
+  border-radius: 10px;
+}
+.a {
+  background-image: url("image/Tere\ Ho\ Ke\ Rahenge.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+.b {
+  background-image: url("image/Butterfly.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+.c {
+  background-image: url("image/Tere\ Kandhe\ Ka\ wo\ til.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+.d {
+  background-image: url("image/No\ Compitition.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+.e {
+  background-image: url("image/pepeta.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+.f {
+  background-image: url("image/Cute\ si.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+.g {
+  background-image: url("image/Music\ Icon.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+.h {
+  background-image: url("image/Music\ Icon.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+.i {
+  background-image: url("image/Music\ Icon.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+.MusicPlayer:hover{
+    color: red;
+    cursor: pointer;
+}
